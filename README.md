@@ -14,7 +14,7 @@ Magnetic Resonance Imaging (MRI) is commonly used in clinical diagnostics. T1 an
 - Supports training and testing modes
 - Modular and customizable PyTorch implementation
 
-## 🧪 Sample Results
+##  Sample Results
 
 *(Add sample before/after images if available)*
 
