@@ -22,7 +22,7 @@ Magnetic Resonance Imaging (MRI) is commonly used in clinical diagnostics. T1 an
 |------------|----------------|-------------------|
 | ![](samples/t1_input.png) | ![](samples/t2_fake.png) | ![](samples/t2_real.png) |
 
-## 🏗️ Architecture
+## 🏗 Architecture
 
 MustGAN is built upon a CycleGAN-like architecture with two generators (`G_T1toT2`, `G_T2toT1`) and two discriminators (`D_T1`, `D_T2`). The model is trained using:
 
