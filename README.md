@@ -6,7 +6,7 @@ MustGAN is a deep learning model based on Generative Adversarial Networks (GANs)
 
 Magnetic Resonance Imaging (MRI) is commonly used in clinical diagnostics. T1 and T2 modalities provide complementary anatomical and pathological information. MustGAN aims to bridge the modality gap by learning mappings between T1 and T2 MR images using unpaired data, leveraging adversarial and cycle consistency losses.
 
-## ✨ Features
+##  Features
 
 - Converts **T1 MRI** to **T2 MRI**
 - Converts **T2 MRI** to **T1 MRI**
