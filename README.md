@@ -30,5 +30,5 @@ MustGAN is built upon a CycleGAN-like architecture with two generators (`G_T1toT
 - Cycle consistency loss
 - Identity loss (optional)
 
-##  Directory Structure
+## Directory Structure
 
