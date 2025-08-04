@@ -1,6 +1,6 @@
 # MustGAN: T1 ↔ T2 MRI Image Translation
 
-MustGAN is a deep learning model based on Generative Adversarial Networks (GANs) for translating between T1-weighted and T2-weighted MRI scans. The model enables bidirectional synthesis: generating T2 images from T1 inputs and vice versa, facilitating tasks in medical image preprocessing, data augmentation, and cross-modality synthesis.
+MustGAN is a deep learning model based on Generative Adversarial Networks (GAN) for translating between T1-weighted and T2-weighted MRI scans. The model enables bidirectional synthesis: generating T2 images from T1 inputs and vice versa, facilitating tasks in medical image preprocessing, data augmentation, and cross-modality synthesis.
 
 ##  Overview
 
