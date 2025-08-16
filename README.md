@@ -16,7 +16,7 @@ Magnetic Resonance Imaging (MRI) is commonly used in clinical diagnostics. T1 an
 
 ##  Sample Results
 
-*(Add sample before/after images if available)*
+*(Add sample before or after images if available)*
 
 | Input (T1) | Generated (T2) | Ground Truth (T2) |
 |------------|----------------|-------------------|
