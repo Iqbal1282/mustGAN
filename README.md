@@ -24,7 +24,7 @@ Magnetic Resonance Imaging (MRI) is commonly used in clinical diagnostics. T1 an
 
 ##  Architecture
 
-MustGAN is built upon a CycleGAN-like architecture with two generators (`G_T1 to T2`, `G_T2toT1`) and two discriminators (`D_T1`, `D_T2`). The model is trained using:
+MustGAN is built upon a CycleGAN-like architecture with two generators (`G_T1 2 T2`, `G_T2toT1`) and two discriminators (`D_T1`, `D_T2`). The model is trained using:
 
 - Adversarial loss
 - Cycle consistency loss
